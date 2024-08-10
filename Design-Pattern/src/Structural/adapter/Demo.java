@@ -1,4 +1,4 @@
-package Structural.Adapter;
+package Structural.adapter;
 
 
 public class Demo {

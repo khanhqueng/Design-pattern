@@ -1,15 +1,15 @@
-package Structural.Adapter;
+package Structural.adapter;
 
-public class JSON {
+public class XML {
     private String data;
 
-    public JSON(String data) {
+    public XML(String data) {
         this.data = data;
     }
 
     @Override
     public String toString() {
-        return "JSON{" +
+        return "XML{" +
                 "data='" + data + '\'' +
                 '}';
     }

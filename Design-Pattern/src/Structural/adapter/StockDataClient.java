@@ -1,4 +1,4 @@
-package Structural.Adapter;
+package Structural.adapter;
 
 public class StockDataClient {
     private final XML metrics= new XML("300.0$");

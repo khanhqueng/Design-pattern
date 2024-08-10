@@ -1,4 +1,4 @@
-package Structural.Adapter;
+package Structural.adapter;
 
 public class AnalyticsLibrary {
     public void analyzeData(JSON json){

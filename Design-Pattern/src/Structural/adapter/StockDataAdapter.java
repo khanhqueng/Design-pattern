@@ -1,4 +1,4 @@
-package Structural.Adapter;
+package Structural.adapter;
 
 public class StockDataAdapter implements IStockClient{
     private AnalyticsLibrary analyticsLibrary;
